@@ -1,0 +1,14 @@
+.section__hero{
+  padding-inline: $whitespace-margin;
+
+  h3{
+    color: $primary;
+  }
+
+  &--img{
+    width: 450px;
+    object-fit: cover;
+  }
+
+
+}
